@@ -1,0 +1,264 @@
+{
+	"name" : "flare",
+	"children" : [
+	{
+		"name" : "Benson Center",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable food containers", "value" : 143.2},
+				{"name" : "misc. meal waste", "value" : 458.5},
+				{"name" : "paper towels", "value" : 34.9}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "other landfill", "value" : 85.23}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "aseptic containers", "value" : 8.6},
+				{"name" : "cardboard", "value" : 104.3},
+				{"name" : "glass", "value" : 34.2},
+				{"name" : "metal", "value" : 27.81},
+				{"name" : "paper", "value" : 70.21},
+				{"name" : "paper towels", "value" : 6.8},
+				{"name" : "plastic 1-7", "value" : 85.0},
+				{"name" : "plastic film", "value" : 132.6}
+			]
+		}
+		]
+	},
+	{
+		"name" : "Facilities",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable food containers", "value" : 18.4},
+				{"name" : "misc. meal waste", "value" : 40.400000000000006},
+				{"name" : "paper towels", "value" : 21.299999999999997}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "other landfill", "value" : 26.099999999999998}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "cardboard", "value" : 18.3},
+				{"name" : "const/demo waste", "value" : 10.9},
+				{"name" : "glass", "value" : 17.299999999999997},
+				{"name" : "metal", "value" : 12.5},
+				{"name" : "paper", "value" : 31.1},
+				{"name" : "plastic 1-7", "value" : 26.2},
+				{"name" : "plastic film", "value" : 10.2}
+			]
+		}
+		]
+	},
+	{
+		"name" : "Graham",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable food containers", "value" : 23.3},
+				{"name" : "misc. meal waste", "value" : 49.8},
+				{"name" : "paper towels", "value" : 20.3}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "other landfill", "value" : 28.1}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "cardboard", "value" : 12.3},
+				{"name" : "glass", "value" : 12.100000000000001},
+				{"name" : "paper", "value" : 20.0},
+				{"name" : "plastic 1-7", "value" : 25.8},
+				{"name" : "plastic film", "value" : 11.5},
+				{"name" : "terracycle", "value" : 9.8}
+			]
+		}
+		]
+	},
+	{
+		"name" : "Learning Commons",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable dining waste (non-edible)", "value" : 3.8000000000000003},
+				{"name" : "compostable food containers", "value" : 3.1},
+				{"name" : "paper towels", "value" : 4.0},
+				{"name" : "scu coffee cups", "value" : 4.9}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "other landfill", "value" : 13.600000000000001}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "cardboard", "value" : 4.1},
+				{"name" : "compostable food containers", "value" : 4.4},
+				{"name" : "const/demo waste", "value" : 4.2},
+				{"name" : "glass", "value" : 3.2},
+				{"name" : "paper", "value" : 14.0},
+				{"name" : "plastic 1-7", "value" : 15.7},
+				{"name" : "plastic film", "value" : 3.1},
+				{"name" : "scu coffee cups", "value" : 5.7}
+			]
+		}
+		]
+	},
+	{
+		"name" : "Malley",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable food containers", "value" : 35.5},
+				{"name" : "misc. meal waste", "value" : 29.900000000000002},
+				{"name" : "paper towels", "value" : 156.8}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "other landfill", "value" : 73.91}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "aseptic containers", "value" : 7.7},
+				{"name" : "cardboard", "value" : 80.7},
+				{"name" : "const/demo waste", "value" : 8.649999999999999},
+				{"name" : "e-/universal waste", "value" : 6.6},
+				{"name" : "glass", "value" : 8.6},
+				{"name" : "metal", "value" : 9.709999999999999},
+				{"name" : "paper", "value" : 91.8},
+				{"name" : "paperboard rolls", "value" : 6.85},
+				{"name" : "plastic 1-7", "value" : 63.8},
+				{"name" : "plastic film", "value" : 39.41},
+				{"name" : "terracycle", "value" : 8.1}
+			]
+		}
+		]
+	},
+	{
+		"name" : "Swig",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "bpi certified compostable to-go ware", "value" : 7.6},
+				{"name" : "compostable food containers", "value" : 20.5},
+				{"name" : "food/organic waste", "value" : 30.7},
+				{"name" : "misc. meal waste", "value" : 33.2},
+				{"name" : "napkins/paper towels", "value" : 7.1},
+				{"name" : "paper towels", "value" : 5.9}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "misc. landfill", "value" : 50.2},
+				{"name" : "other landfill", "value" : 10.8}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "cardboard", "value" : 16.7},
+				{"name" : "glass", "value" : 36.9},
+				{"name" : "metal", "value" : 3.8},
+				{"name" : "metal & aluminum", "value" : 3.4},
+				{"name" : "paper", "value" : 20.8},
+				{"name" : "paperboard", "value" : 6.8},
+				{"name" : "plastic 1-7", "value" : 26.3},
+				{"name" : "plastics #1-7", "value" : 19.200000000000003}
+			]
+		}
+		]
+	},
+	{
+		"name" : "University Villas",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable food containers", "value" : 29.9},
+				{"name" : "misc. meal waste", "value" : 127.2},
+				{"name" : "paper towels", "value" : 13.200000000000001}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "other landfill", "value" : 19.3}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "cardboard", "value" : 8.1},
+				{"name" : "glass", "value" : 28.1},
+				{"name" : "metal", "value" : 6.4},
+				{"name" : "paper", "value" : 15.4},
+				{"name" : "plastic 1-7", "value" : 31.6},
+				{"name" : "plastic film", "value" : 14.4}
+			]
+		}
+		]
+	},
+	{
+		"name" : "Vari Hall and Lucas Hall",
+		"children" : [
+		{
+			"name" : "Compost",
+			"children" : [
+				{"name" : "compostable dining waste (non-edible)", "value" : 21.0},
+				{"name" : "compostable food containers", "value" : 20.7},
+				{"name" : "food waste (edible)", "value" : 50.2},
+				{"name" : "misc. meal waste", "value" : 64.6},
+				{"name" : "paper towels", "value" : 46.2},
+				{"name" : "scu coffee cups", "value" : 5.4}
+			]
+		},
+		{
+			"name" : "Landfill",
+			"children" : [
+				{"name" : "non-scu coffee cups", "value" : 4.8},
+				{"name" : "other landfill", "value" : 61.0}
+			]
+		},
+		{
+			"name" : "Recycle",
+			"children" : [
+				{"name" : "const/demo waste", "value" : 3.1},
+				{"name" : "metal", "value" : 3.5},
+				{"name" : "paper", "value" : 31.9},
+				{"name" : "plastic 1-7", "value" : 25.4},
+				{"name" : "plastic film", "value" : 19.200000000000003}
+			]
+		}
+		]
+	}
+	]}
