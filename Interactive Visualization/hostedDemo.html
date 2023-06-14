@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <style>
+    body{
+      
+      font-size: 14px;
+    }
+    div{
+      margin:auto;
+    }
+    h1{
+      font-family: sans-serif;
+    }
+    p{ 
+      font-family: sans-serif;
+      text-align: left;
+      
+      margin-top: 20px;
+    }
+    .observablehq-chart{  
+      text-align: center;
+      height: 630px;
+      width: 630px;
+    }
+  </style>
+</head>
+<body>
+  <div id="observablehq-dd6adf2a">
+    <div class="observablehq-chart">
+      <h1>
+        Summary of waste collected at SCU
+      </h1>
+    </div>
+  </div>
+  <p>Sources: SCU Waste Collection Data</p>
+  <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+    import define from "https://api.observablehq.com/d/c125bd07dc74da68.js?v=3";
+    (new Runtime).module(define, name => {
+      if (name === "chart") return Inspector.into("#observablehq-dd6adf2a .observablehq-chart")();
+    });
+  </script>
+</body>
