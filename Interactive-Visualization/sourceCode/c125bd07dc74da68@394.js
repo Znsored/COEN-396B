@@ -1,7 +1,5 @@
 function _1(md){return(
-md`# Zoomable Sunburst
-
-This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the hierarchy at a time. Click a node to zoom in, or the center to zoom out. Compare to an [icicle](/@d3/zoomable-icicle).`
+md`# Summary of waste collected at SCU`
 )}
 
 function _chart(partition,data,d3,width,color,arc,format,radius)
