@@ -6,7 +6,6 @@ Code work for the course COEN 396B: Data Visualization (Spring 23)
 ![](Static-Visualization/Static-Visual.png)
 
 ### Static Visualization
-![](Interactive-Visualization/Source-Code/hostedDemo.html)
 ![](Interactive-Visualization/Screenshots/demo_1.png)
 ![](Interactive-Visualization/Screenshots/demo_2.png)
 ![](Interactive-Visualization/Screenshots/demo_3.png)
