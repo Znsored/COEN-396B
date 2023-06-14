@@ -13,3 +13,6 @@ Code work for the course COEN 396B: Data Visualization (Spring 23)
 ### Final Project
 ![](Final-Project/Screenshots/Demo_1.png)
 ![](Final-Project/Screenshots/Demo_2.png)
+
+## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Znsored/workerNode/blob/main/LICENSE)
